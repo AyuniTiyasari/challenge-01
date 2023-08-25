@@ -1,4 +1,8 @@
 @media  screen and (max-width: 576px) {
+    #offcanvasNavbar .offcanvas {
+        min-width: 180px;
+        max-width: 180px;
+    }
     #hero {
         flex-direction: column;
         padding-bottom: 0;
