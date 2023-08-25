@@ -1,0 +1,88 @@
+@media  screen and (max-width: 576px) {
+    #hero {
+        flex-direction: column;
+        padding-bottom: 0;
+        height: 657px;
+    }
+
+    #hero .img-hero {
+        width: 344.216px;
+        height: 199px;
+    }
+
+    #hero .mobil {
+        margin-top: -500px;
+    }
+
+    #our_services .img-servis {
+        width: 252px;
+        height: 228px;
+        margin-left: 50px;
+    }
+
+    #our_services .h2 {
+       margin-left: 50px;
+        width: 100%;
+    }
+
+    #why_us .col-12 {
+        text-align: center;
+    }
+
+    #why_us .card {
+        gap: 20px;
+    }
+
+    #testimonial .col-12 {
+        text-align: center;
+    }
+
+    #testimonial .card-testi {
+        height: 372px;
+    }
+    #testimonial .photo {
+        margin-left: 120px;
+        margin-top: -100px;
+    }
+
+    #testimonial .card-title-testi {
+        margin-left: 50px;
+        margin-top: -45px;
+    }
+
+    #testimonial .card-text-testi {
+        margin-left: -50px;
+        margin-top: 20px;
+    }
+
+    #testimonial .review {
+        width: 100%;
+    }
+
+    #banner .col-12 {
+        height: 400px;
+    }
+
+    #banner .card-title {
+        font-size: 24px;
+    }
+
+    #banner .card-text {
+        font-size: 14px;
+        width: 100%;
+        text-align: center;
+    }
+    #faq .row {
+        flex-direction: column;
+    }
+    #faq .col-5 {
+        width: 100%;
+    }
+    #faq .col-7 {
+        width: 100%;
+    }
+
+    #footer .footer1 {
+        margin-left: -50px;
+    }
+};
